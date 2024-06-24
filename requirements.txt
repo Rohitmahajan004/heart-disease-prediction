@@ -4,4 +4,3 @@ feature-engine
 flask
 flask-wtf
 gunicorn
-pickle
